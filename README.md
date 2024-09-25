@@ -1,4 +1,4 @@
-# AI
+# capstone
 ---
 1. Feature Selection
 2. Text data preprocessing
