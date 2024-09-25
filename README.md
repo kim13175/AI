@@ -5,10 +5,14 @@ workflow
 ![image](https://github.com/user-attachments/assets/5085c16e-eec7-4b9b-bbe0-5bb6cde6fa95)
 
 
-
 ---
-1. Feature Selection
-2. Text data preprocessing
+1. data collection
+---
+- https://physionet.org/content/mimiciii/1.4/
+- https://physionet.org/content/mimic-cxr/2.0.0/
+---
+2. Feature Selection
+3. Text data preprocessing
 ---
 
 - 보고서 결과 - 입력값 / 특이점 발견 유무 - 라벨
@@ -19,7 +23,7 @@ workflow
 
 ---
 
-3. model analytics
+4. model analytics
 ---
 
 - lstm 기본 모델을 이용한 이진 분류 성능 평가
