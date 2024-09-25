@@ -1,5 +1,12 @@
 # capstone
 ---
+workflow
+---
+![image](https://github.com/user-attachments/assets/5085c16e-eec7-4b9b-bbe0-5bb6cde6fa95)
+
+
+
+---
 1. Feature Selection
 2. Text data preprocessing
 ---
